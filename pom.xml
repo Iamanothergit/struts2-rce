@@ -42,7 +42,7 @@
     </snapshotRepository>
      <repository>
     <id>nexus</id>
-    <url>http://18.188.100.16:8081/repository/maven-releases/</url>
+    <url>http://rubberglove-elb-2047471998.eu-west-2.elb.amazonaws.com:8081/repository/maven-release/</url>
     </repository>
     </distributionManagement>
 
